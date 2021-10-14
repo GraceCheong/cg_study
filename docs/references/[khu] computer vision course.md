@@ -4,7 +4,7 @@
 
 previous class of seung kyu lee, all sources are from http://cvlab.khu.ac.kr/cv18.html
 
-
+<table>
 <tbody><tr>
 <td>
 Instructor
