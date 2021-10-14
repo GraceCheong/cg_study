@@ -5,7 +5,7 @@
 previous class of seung kyu lee, all sources are from http://cvlab.khu.ac.kr/cv18.html
 
 <table>
-<tbody><tr>
+<tr>
 <td>
 Instructor
 </td><td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
@@ -140,6 +140,6 @@ Scene Understanding <a href="http://cvlab.khu.ac.kr/CVLecture22.pdf">Lecture Sli
 Light Field and Integral Imaging <a href="http://cvlab.khu.ac.kr/CVLecture25_1.pdf">Lecture Slide #25</a> <br> 
 Vision for Graphics <a href="http://cvlab.khu.ac.kr/CVLecture26.pdf">Lecture Slide #26</a> 
 </td></tr>
-</tbody></table>
+</table>
 
 
