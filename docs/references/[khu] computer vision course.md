@@ -1,6 +1,6 @@
-#computer vision doc
+<h1>computer vision doc</h1>
 
-##what to follow?
+<h2>what to follow?</h2>
 
 previous class of seung kyu lee, all sources are from http://cvlab.khu.ac.kr/cv18.html
 
